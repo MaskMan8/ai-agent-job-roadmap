@@ -1,9 +1,14 @@
-a = "20"
-b = 20
-c = 20.0
-d = False
 
-print(type(a))
-print(type(b))
-print(type(c))
-print(type(d))
+name = "jack"
+age = 20
+school = "xxx大学"
+major = "XXX专业"
+city = "XXX"
+target_job = "AI开发"
+
+print(name)
+print(age)
+print(school)
+print(major)
+print(city)
+print(target_job)
