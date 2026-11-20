@@ -1,0 +1,38 @@
+{
+    "students": [
+        {
+            "id": "S001",
+            "name": "张三"
+        },
+        {
+            "id": "是s009",
+            "name": "okl"
+        },
+        {
+            "id": "s010",
+            "name": "djb"
+        }
+    ],
+    "courses": [
+        {
+            "id": "C001",
+            "name": "Python"
+        },
+        {
+            "id": "c010",
+            "name": "oop"
+        }
+    ],
+    "grades": [
+        {
+            "student_id": "S001",
+            "course_id": "C001",
+            "score": 90
+        },
+        {
+            "student_id": "s010",
+            "course_id": "c010",
+            "score": 90
+        }
+    ]
+}

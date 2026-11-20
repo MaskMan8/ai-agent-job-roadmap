@@ -11,8 +11,8 @@
     打印输出函数。
 3.什么是变量
     内存中的一块存储空间，给这块空间起变量名来存放数据。
-4.git add   git commit   git push   
+4. git status git add   git commit   git push   
     git add 把工作区（电脑上真实修改的文件）的改动，加入暂存（stage、index）只标待提交，不生成版本记录。
-    git commit 把暂存区的改动生成一条新的提交记录，保存到本地git仓库
+    git commit 把暂存区的改动生成一条新的提交记录，保存到本地git仓库.
     git push 把本地档案库里已经commit好的版本上传到远程服务器的仓库。
 '''
