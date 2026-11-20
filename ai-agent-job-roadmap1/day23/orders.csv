@@ -1,0 +1,7 @@
+order_id,product,quantity,unit_price,city
+E001,,2,100,杭州
+E002,耳机,abc,59,武汉
+E003,鼠标,-2,50,成都
+E004,键盘,1,abc,广州
+E005,显示器,2,-10,西安
+E006,平板,abc,0,深圳
